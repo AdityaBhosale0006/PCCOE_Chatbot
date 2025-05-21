@@ -1,4 +1,4 @@
-python_version >=3.12,<3.13
+python_version ==3.12.10
 fastapi==0.110.2
 uvicorn[standard]==0.29.0
 python-dotenv==1.0.1
